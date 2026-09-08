@@ -176,7 +176,18 @@ Vishnu Sainadh Kedarisetty, Satwik Kukkadapu and Ashrith Vadde.
 - Yeh, K.-H. et al. (2017). *Multistage Temporal Difference Learning for 2048-Like Games.* IEEE
   TCIAIG 9(4), 369–380.
 
+## Contributing
+
+Bug fixes and reproducibility improvements are welcome. Open a focused pull request that
+explains the change and how it was verified. For new training results, include the agent, random
+seed, episode count, hardware, hyperparameters, and evaluation method. Do not commit generated
+checkpoints or large experiment artifacts.
+
 ## Documentation
 
 - 📄 [Project Report](docs/Report.pdf)
 - 📊 [Presentation](docs/PPT.pptx)
+
+## License
+
+Licensed under the [MIT License](LICENSE).
